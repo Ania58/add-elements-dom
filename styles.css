@@ -1,0 +1,21 @@
+body {
+    padding: 5px;
+    margin: 10px;
+}
+
+h1 {
+    background-color: chocolate;
+}
+
+#agregar {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+}
+
+#agregar:hover {
+    background-color: coral;
+    color: white;
+}
